@@ -1,7 +1,7 @@
 #  Parking-Lot
 The final project in course OOD (Object Orinted Desgin),the project helps users to find and report avilabile car parking in chosen streets in different regions  . 
 # Description
-Developed a parking lot system with a user interface, which helps users to find an available parking lot in an area of their choice.
+Developed a parking lot system with a user interface, which helps users to find and report an available parking lot in an area of their choice.
 Tools – Java, OOP, Java Swing for GUI, MySQL DB.
 
 In additon, we used 3 desgin patterns (Singleton,Facde and Factory).
