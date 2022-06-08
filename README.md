@@ -6,12 +6,12 @@ Tools – Java, OOP, Java Swing for GUI, MySQL DB.
 
 In additon, we used 3 desgin patterns (Singleton,Facde and Factory).
 
-1) Singleton: We used this desgin pattern in our project ,. the  prviate constructor help to create only one object from specific type,we need in our applaction to make one access(only one object) for every user to the frame"access" because we want that every user will have one connection to the application .
-we also used Singelton to connect to MySQL DB cause also we want one connection to database .
+1) Singleton:We used Singleton to make one access(only one object) for every user to the frame(access) because we want that every user have one connection for the application .
+
  ![image](https://user-images.githubusercontent.com/100870794/172393337-615ce45e-f149-4730-86d6-5f318186927a.png)
  
-2) Facde: We used Facde provides comfortable API for our different frames . it helps to work easier with the database . the Facde also allows to improve the code if we want to change or add  databases without the  entire code  . 
-3) Factory: This pattern takes out the responsibility of the instantiation of a class from the client program to the factory class. the Factory sort all the frames in the FrameFactory which make its easier to make changes or add more frames . 
+2) Facde: The Facde provides comfortable API for our different frames with the DB . 
+3) Factory: We used Factory to create varies GUI frames. the Factory sort all the frames in the FrameFactory which make its easier to make changes or add more frames . 
  ![image](https://user-images.githubusercontent.com/100870794/172395624-020f5b06-d973-4202-b699-1b4cf5419c15.png)
 
 
